@@ -15,7 +15,7 @@
 
     <actions>
         <!-- Add your actions here -->
-        <action id="cusor" class="org.ccg.ConfigCusor" text="ConfigViewer" description="showing the config value">
+        <action id="cusor" class="org.ccg.ConfigCusor" text="Config Viewer" description="showing the config value">
             <add-to-group group-id="EditorPopupMenu" anchor="first"/>
             <keyboard-shortcut keymap="$default" first-keystroke="alt F"/>
         </action>

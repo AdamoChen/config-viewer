@@ -12,9 +12,7 @@ import com.intellij.psi.PsiFile;
 import com.intellij.ui.JBColor;
 
 import java.awt.*;
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
+import java.io.*;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -107,7 +105,8 @@ public class ConfigCusor extends AnAction {
                 for (File file : resourceDir.listFiles()) {
                     int lineCount = 0;
                     if (file.isFile()) {
-                        BufferedReader br = new BufferedReader(new FileReader(file));
+
+                        BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(file),"UTF-8"));
                         String line;
                         while ((line = br.readLine()) != null) {
                             lineCount++;
