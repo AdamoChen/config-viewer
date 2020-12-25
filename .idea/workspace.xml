@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b99e50f-d76f-4ecc-b5e2-e9cedd60a790" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-new/PTNRtest.cer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-new/PTNRtest.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-new/PTNRtest.pwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-new/citicdsgj.cer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-new/citicdsgj.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-old/PTNRtest.cer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-old/PTNRtest.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR-old/PTNRtest.pwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/PTNRtest.cer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/PTNRtest.csq" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/PTNRtest.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/PTNRtest.pfx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/PTNRtest.pwd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/config/PTNR/df_test.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EMSSDemo/lib/bcprov-jdk14-1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/ccg/ConfigCusor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruqi_wordsearch_service/wordsearch-service/src/main/java/com/ruqimobility/wordsearch/model/DocModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruqi_wordsearch_service/wordsearch-service/src/main/resources/ikConfig/IKAnalyzer.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruqi_wordsearch_service/wordsearch-service/src/main/resources/ikConfig/ext.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruqi_wordsearch_service/wordsearch-service/src/main/resources/ikConfig/stopword.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_externalAPIProxy/externalAPI-service/src/main/resources/sentry.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_externalAPIProxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/CNCBCryptoPkg.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/bcmail-jdk14-1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/bcprov-jdk14-1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/commons-lang-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/xmlpull-1.1.3.4d_b4_min.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/libs/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/src/main/java/com/tencent/iov/payment/constants/CNCBBizCodeEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/src/main/java/com/tencent/iov/payment/dao/BizCardBinMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/src/main/java/com/tencent/iov/payment/model/BizCardBin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/src/main/java/com/tencent/iov/payment/util/CNCBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_payment/src/test/java/com/tencent/iov/payment/service/BizCardBinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../travel_platform_push_proxy/push-proxy-service/src/main/resources/sentry.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="config-viewer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="config-viewer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="config-viewer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Action" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1m06k0ZECihrn3w8CQX84QmBR2N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$PROJECT_DIR$/../../../DevSoft/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Gradle.config-viewer [jar]">
+    <configuration name="config-viewer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="config-viewer [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="config-viewer [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.config-viewer [clean]" />
+        <item itemvalue="Gradle.config-viewer [jar]" />
+        <item itemvalue="Gradle.config-viewer [runIde]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b99e50f-d76f-4ecc-b5e2-e9cedd60a790" name="Default Changelist" comment="" />
+      <created>1608618300515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608618300515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="302" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1608880867522">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="302" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608880867522" />
+    <state x="362" y="172" width="1350" height="809" key="#xdebugger.evaluate" timestamp="1608888840573">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="362" y="172" width="1350" height="809" key="#xdebugger.evaluate/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608888840573" />
+    <state width="1138" height="562" key="DebuggerActiveHint" timestamp="1608888866472">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1138" height="562" key="DebuggerActiveHint/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608888866472" />
+    <state x="805" y="271" key="FileChooserDialogImpl" timestamp="1608695163122">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="271" key="FileChooserDialogImpl/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608695163122" />
+    <state width="2005" height="375" key="GridCell.Tab.0.bottom" timestamp="1608889920817">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="375" key="GridCell.Tab.0.bottom/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889920817" />
+    <state width="2005" height="375" key="GridCell.Tab.0.center" timestamp="1608889920817">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="375" key="GridCell.Tab.0.center/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889920817" />
+    <state width="2005" height="375" key="GridCell.Tab.0.left" timestamp="1608889920817">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="375" key="GridCell.Tab.0.left/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889920817" />
+    <state width="2005" height="375" key="GridCell.Tab.0.right" timestamp="1608889920817">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="375" key="GridCell.Tab.0.right/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889920817" />
+    <state width="2005" height="334" key="GridCell.Tab.1.bottom" timestamp="1608889162210">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="334" key="GridCell.Tab.1.bottom/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889162210" />
+    <state width="2005" height="334" key="GridCell.Tab.1.center" timestamp="1608889162210">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="334" key="GridCell.Tab.1.center/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889162210" />
+    <state width="2005" height="334" key="GridCell.Tab.1.left" timestamp="1608889162210">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="334" key="GridCell.Tab.1.left/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889162210" />
+    <state width="2005" height="334" key="GridCell.Tab.1.right" timestamp="1608889162210">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="334" key="GridCell.Tab.1.right/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608889162210" />
+    <state x="664" y="259" key="NewModule_or_Project.wizard" timestamp="1608695166490">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="664" y="259" key="NewModule_or_Project.wizard/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608695166490" />
+    <state x="172" y="200" width="1350" height="711" key="SettingsEditor" timestamp="1608868440426">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="172" y="200" width="1350" height="711" key="SettingsEditor/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608868440426" />
+    <state x="746" y="298" width="561" height="524" key="StructurePopup" timestamp="1608693761428">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="746" y="298" width="561" height="524" key="StructurePopup/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608693761428" />
+    <state width="1031" height="563" key="XDebugger.FullValuePopup" timestamp="1608879163619">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1031" height="563" key="XDebugger.FullValuePopup/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608879163619" />
+    <state x="681" y="259" key="run.anything.popup" timestamp="1608727226349">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" key="run.anything.popup/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608727226349" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1608878136525">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112/222.1440.1536.824@0.0.2048.1112" timestamp="1608878136525" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ccg/ConfigCusor.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ccg/ConfigCusor.java</url>
+          <line>131</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/ccg/ConfigCusor.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

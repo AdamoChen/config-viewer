@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>org.example.config-viewer</id>
+    <name>config-viewer</name>
+    <vendor email="987932420@qq.com" url="http://www.ccg.com">adamoChen</vendor>
+
+    <description>一个spring-boot config值查看器，用于开发时方便查看配置类字段在配置文件中的值</description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+        <action id="cusor" class="org.ccg.ConfigCusor" text="ConfigViewer" description="showing the config value">
+            <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+            <keyboard-shortcut keymap="$default" first-keystroke="alt F"/>
+        </action>
+    </actions>
+</idea-plugin>

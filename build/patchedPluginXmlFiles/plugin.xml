@@ -1,0 +1,19 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="201.8538" until-build="201.*"/>
+  <id>org.example.config-viewer</id>
+  <name>config-viewer</name>
+  <vendor email="987932420@qq.com" url="http://www.ccg.com">adamoChen</vendor>
+  <description>一个spring-boot config值查看器，用于开发时方便查看配置类字段在配置文件中的值</description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij"/>
+  <actions>
+    <action id="cusor" class="org.ccg.ConfigCusor" text="配置值" description="展示配置值">
+      <add-to-group group-id="EditorPopupMenu" anchor="first"/>
+      <keyboard-shortcut keymap="$default" first-keystroke="alt F"/>
+    </action>
+  </actions>
+</idea-plugin>
